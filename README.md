@@ -2,6 +2,9 @@
 
 
 
+## challenges
+- [flAWS 1](http://flaws.cloud/)
+- [flAWS 2](http://flaws2.cloud/)
 
 
 ## References
